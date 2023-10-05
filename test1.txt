@@ -1,3 +1,4 @@
 Name          Country
 Sankruth      India
 Chithra       Tamilnadu
+Kamal         Kerala
